@@ -5,11 +5,9 @@
 🎓 Data Science Scholar | Unicesumar
 🎓 IT Technician | Federal Institute of Paraná
 
-🚀 Passionate about programming since the age of 10, I discovered my love by starting to develop games with Construct, Unity, and Blender. Today, as a Machine Learning Engineer at Datarisk, I find motivation in the complex challenges the field offers, turning data into valuable insights.
+🚀 Passionate about programming since the age of 10, I discovered my love by starting to develop games with Construct, Unity, and Blender. Today, as a Machine Learning Engineer at Datarisk, solving the pains of MLOps.
 
 🎯 My focus? Concrete results! I believe true success is measured by tangible metrics and measurable impact. With an innovation-driven approach, I'm constantly exploring the latest technologies and trends. I don't confine myself to languages or frameworks, as I understand that the essence lies in problem-solving.
-
-🛠️ My key stacks include Python, MongoDB, and essential Machine Learning tools like Scikit-Learn and PyTorch. These tools form the foundation of my journey to turn data into actionable knowledge.
 
 <h2> Skills</h2>
 <h3 align="left">Languages</h3>
