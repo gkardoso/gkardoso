@@ -2,7 +2,7 @@
 
 🔍 Machine Learning Engineer | Python Developer Focused on MLOps
 
-🎓 Data Science Scholar | Unicesumar
+🎓 Data Science | Unicesumar
 🎓 IT Technician | Federal Institute of Paraná
 
 🚀 Passionate about programming since the age of 10, I discovered my love by starting to develop games with Construct, Unity, and Blender. Today, as a Machine Learning Engineer at Datarisk, solving the pains of MLOps.
